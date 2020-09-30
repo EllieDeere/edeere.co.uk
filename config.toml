@@ -62,4 +62,4 @@ displayrssicon = true
     name = "cv"
     identifier = "cv"
     weight = 300
-    url = "/cv/"
+    url = "https://elliedeere.github.io/eCV/cv.html"
