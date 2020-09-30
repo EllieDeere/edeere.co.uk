@@ -1,0 +1,11 @@
+---
+title: Publications
+author: Ellie Deere
+slug: publications
+comments: no
+showcomments: yes
+---
+
+# 2019
+
+* Davies, B. E., Morgan, S., John-Evans, H., & Deere, E. (2019). [‘Monsters don’t bother me anymore’ forensic mental health service users’ experiences of acceptance and commitment therapy for psychosis.](https://www.tandfonline.com/doi/abs/10.1080/14789949.2019.1614650) The Journal of Forensic Psychiatry & Psychology, 30(4), 594-613.

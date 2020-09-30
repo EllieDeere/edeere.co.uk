@@ -1,0 +1,9 @@
+/* Add custom CSS here. */
+
+.container
+{
+    overflow: auto;
+
+    max-width: 1000px;
+    padding: 0 15px;
+}

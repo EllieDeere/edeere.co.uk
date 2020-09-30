@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Ellie Deere</title>
+    <link>/tags/about/</link>
+    <description>Recent content in about on Ellie Deere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Education I studied psychology at Cardiff University between 2014 and 2018, before completing a Masters&amp;rsquo; degree in Clinical Neuropsychiatry at Kings&amp;rsquo; College London in 2019.
+Areas of interest I am particularly interested in functional neurological disorders and traumatic brain injury. Specifically, neuroinflammation and its relationship with neurological function.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+## Basic Configuration
+
+baseurl = "https://edeere.co.uk"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-gb"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Ellie Deere"
+title = "Ellie Deere"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Ellie Deere"
+intro = "Psychology and Neuroscience"
+description = ""
+authorimage = "pp.jpg"
+dateformat = ""
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+linkedin = "elliedeere"
+email = "elliedeere123@gmail.com"
+
+
+## Extras
+[params.extra]
+copyright = ""
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "publications"
+    weight = 100
+    identifier = "publications"
+    url = "/publications/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "cv"
+    identifier = "cv"
+    weight = 300
+    url = "/cv/"
